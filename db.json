@@ -31,68 +31,7 @@
         "has_discount": null,
         "has_bid_im_agent": 0,
         "housing_type_str": "新成屋",
-        "station_name": "大埔派出所[樂活巴]",
-        "cover_icon": {
-          "has_img": 1,
-          "has_street_img": 1,
-          "has_video": 1,
-          "has_full_sky": 0,
-          "has_full_720": 1
-        },
-        "tag": [
-          {
-            "tag_type": 2,
-            "tag_str": "熱銷中"
-          },
-          {
-            "tag_type": 4,
-            "tag_str": "開箱文"
-          }
-        ],
-        "price": {
-          "price": "43.6",
-          "unit": "萬/坪",
-          "single_unit": "萬",
-          "text": "成交均價"
-        },
-        "price_num": "1431",
-        "housing_ad_union": {
-          "hid": 121156,
-          "roster": 0,
-          "roster_pc": 0,
-          "roster_touch": 0,
-          "roster_ios": 0,
-          "roster_android": 0
-        },
-        "shop_name": "A7站重劃區-郵政物流",
-        "dynamic": {
-          "date": "2025-02-20",
-          "content": "建案現推出\"贈\"（含）全室輕裝修活動，詳情請洽現場，主推3房、3+1房、4房為35~46坪產品，現場備有\"樣\"（實）品屋可供參觀。",
-          "text": "有最新一條動態",
-          "hid": 121156
-        },
-        "article": {
-          "id": 337,
-          "score": "3.70",
-          "advantage": "1.十大建商、上市知名品牌富宇建設。2.四千坪大基地開發、低建蔽率與約470坪28項全齡化公設。3.全棟純住宅無店面規劃，10多種房型選擇。4.3-4房雙面採光且衛浴皆開窗。",
-          "is_light": 0
-        },
-        "hot_tag": [
-          "近一週超 3,607 人看過",
-          "熱門指數飆升至79%"
-        ],
-        "photo_src": {
-          "type": 1,
-          "src": "https://img1.591.com.tw/house/2022/03/01/164611866548017307.jpg!600x450.water1.jpg"
-        },
-        "label_info": [],
-        "tag_v2": [
-          {
-            "type": 1,
-            "content": "新上架9筆物件"
-          }
-        ],
-        "housing_text": "新成屋"
+        "station_name": "大埔派出所[樂活巴]"
       }
     ],
     "paginate": {
