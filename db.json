@@ -93,77 +93,6 @@
           }
         ],
         "housing_text": "新成屋"
-      },
-      {
-        "id": 50447,
-        "name": "璟都巴黎",
-        "region": "桃園市",
-        "section": "桃園區",
-        "lat": "24.9971900",
-        "lng": "121.2978100",
-        "build_type": 1,
-        "sale_num": 103,
-        "build_purpose_simple": "住宅",
-        "house_holds": 231,
-        "simple_address": "保定三街89巷20號",
-        "housing_type": 0,
-        "has_sale_ctrl": 1,
-        "has_agent": 1,
-        "label_type": 1,
-        "hid": 123457,
-        "browse_num": "48,342",
-        "in_rank_list": 0,
-        "follow_status": 0,
-        "rent_num": 14,
-        "agent": [],
-        "has_discount": null,
-        "has_bid_im_agent": 0,
-        "housing_type_str": "3年社區",
-        "station_name": "",
-        "cover_icon": {
-          "has_img": 1,
-          "has_street_img": 1,
-          "has_video": 0,
-          "has_full_sky": 0,
-          "has_full_720": 1
-        },
-        "tag": [
-          {
-            "tag_type": 1,
-            "tag_str": "103筆在售"
-          }
-        ],
-        "price": {
-          "price": "44.8",
-          "unit": "萬/坪",
-          "single_unit": "萬",
-          "text": "成交均價"
-        },
-        "price_num": "421",
-        "housing_ad_union": {
-          "hid": 123457,
-          "roster": 0,
-          "roster_pc": 0,
-          "roster_touch": 0,
-          "roster_ios": 0,
-          "roster_android": 0
-        },
-        "shop_name": "中路重劃區",
-        "dynamic": {},
-        "article": {},
-        "hot_tag": [],
-        "photo_src": {
-          "type": 3,
-          "src": "https://img1.591.com.tw/house/2020/12/08/160739035925510102.jpg!600x450.jpg"
-        },
-        "label_info": [],
-        "tag_v2": [
-          {
-            "type": 2,
-            "content": "7筆降價,最高降3.5%"
-          }
-        ],
-        "housing_text": "中古屋"
       }
     ],
     "paginate": {
@@ -173,20 +102,5 @@
     }
   }
 }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }}
