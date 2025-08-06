@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "SITENAME": "/office/buy \u5927\u5b89\u5340\u8cb7\u5546\u7528",
-      "SITEURL": "https://dev-commercial.rakuya.com.tw/office/buy?zipcode=106",
-      "EXPECTED_TITLE": "\u3010\u53f0\u5317\u5e02\u5927\u5b89\u5340\u5546\u7528\u4e0d\u52d5\u7522\u51fa\u552e\u3011\u5171"
+      "{#SITENAME}": "/office/buy 大安區買商用",
+      "{#SITEURL}": "https://dev-commercial.rakuya.com.tw/office/buy?zipcode=106",
+      "{#EXPECTED_TITLE}": "【台北市大安區商用不動產出售】"
     },
     {
-      "SITENAME": "/office/buy \u53f0\u5317\u5e02\u8cb7\u5546\u7528",
-      "SITEURL": "https://dev-commercial.rakuya.com.tw/office/buy?city=0",
-      "EXPECTED_TITLE": "\u3010\u53f0\u5317\u5e02\u5168\u5340\u5546\u7528\u4e0d\u52d5\u7522\u51fa\u552e\u3011\u5171"
+      "{#SITENAME}": "/office/buy 台北市買商用",
+      "{#SITEURL}": "https://dev-commercial.rakuya.com.tw/office/buy?city=0",
+      "{#EXPECTED_TITLE}": "【台北市全區商用不動產出售】"
     }
   ]
 }
